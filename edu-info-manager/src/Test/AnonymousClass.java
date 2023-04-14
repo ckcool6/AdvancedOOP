@@ -16,3 +16,4 @@ public class AnonymousClass {
 interface Swimming {
     void swim();
 }
+
