@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedOOP.iml" filepath="$PROJECT_DIR$/AdvancedOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/edu-info-manager/edu-info-manager.iml" filepath="$PROJECT_DIR$/edu-info-manager/edu-info-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-package/test-package.iml" filepath="$PROJECT_DIR$/test-package/test-package.iml" />
+    </modules>
+  </component>
+</project>
